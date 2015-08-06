@@ -3,4 +3,8 @@ Favourite path is Ruby
 List of my deadly skills are
 * Ruby
 * Javascript
-* Git
+* GitOn my way to becoming a GitHub Master. I love Ruby and JavaScript.
+
+* Ruby on Rails
+*Git
+* Rebase
